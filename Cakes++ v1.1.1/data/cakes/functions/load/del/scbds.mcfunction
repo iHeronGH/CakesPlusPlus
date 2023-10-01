@@ -25,7 +25,7 @@ scoreboard objectives remove cakes++.thrown_item.golden_carrot
 scoreboard objectives remove cakes++.thrown_item.ice
 scoreboard objectives remove cakes++.thrown_item.milk_bucket
 scoreboard objectives remove cakes++.thrown_item.red_dye
-scoreboard objectives remove cakes++.thrown_item.spongee
+scoreboard objectives remove cakes++.thrown_item.sponge
 scoreboard objectives remove cakes++.thrown_item.sweet_berries
 scoreboard objectives remove cakes++.thrown_item.yellow_dye
 
