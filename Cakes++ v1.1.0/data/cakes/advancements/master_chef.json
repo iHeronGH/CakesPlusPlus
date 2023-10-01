@@ -1,0 +1,56 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:sweet_berries"
+		},
+		"title": {
+			"text": "Master Chef!",
+			"bold": false,
+			"italic": false,
+			"underlined": false,
+			"strikethrough": false,
+			"obfuscated": false
+		},
+		"description": "Bake all 9 delicious cakes!",
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "cakes:root",
+	"criteria": {
+		"created_birthday_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_carrot_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_cheese_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_chocolate_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_fruit_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_golden_carrot_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_ice_cream_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_lemon_cake": {
+			"trigger": "minecraft:impossible"
+		},
+		"created_red_velvet_cake": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"rewards": {
+		"experience": 1000,
+		"loot": [
+			"cakes:advancement_reward/cake"
+		]
+	}
+}

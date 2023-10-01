@@ -1,0 +1,18 @@
+{
+	"criteria": {
+		"thrown_recipe_item": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:reference",
+						"name": "cakes:thrown_recipe_item"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "cakes:load/tag_recipe_item"
+	}
+}
