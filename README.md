@@ -1,2 +1,2 @@
-# BerriesPlusPlus
+# CakesPlusPlus
  A datapack that adds in plenty of delicious cakes!
