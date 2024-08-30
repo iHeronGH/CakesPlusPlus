@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"ate_cake": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:entity_scores",
+						"entity": "this",
+						"scores": {
+							"cakes++.ate_cake": {
+								"min": 1
+							}
+						}
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "cakes:load/stage"
+	}
+}
