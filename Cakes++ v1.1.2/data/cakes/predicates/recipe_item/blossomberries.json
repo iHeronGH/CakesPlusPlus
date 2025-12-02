@@ -1,8 +1,0 @@
-{
-	"condition": "minecraft:entity_properties",
-	"entity": "this",
-	"predicate": {
-		"type": "minecraft:item",
-		"nbt": "{Tags:[\"cakes++.recipe_item\"],Item:{id:\"minecraft:glow_berries\",tag:{berries++:{type:'blossomberries'}}},OnGround:1b}"
-	}
-}
