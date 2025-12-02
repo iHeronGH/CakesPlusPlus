@@ -1,8 +1,0 @@
-{
-	"condition": "minecraft:entity_properties",
-	"entity": "this",
-	"predicate": {
-		"type": "minecraft:item",
-		"nbt": "{Tags:[\"cakes++.recipe_item\"],Item:{id:\"minecraft:yellow_dye\"},OnGround:1b}"
-	}
-}
